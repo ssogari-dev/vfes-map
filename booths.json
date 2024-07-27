@@ -1,5 +1,110 @@
 [
   {
+    "booth_number": "가-1",
+    "booth_name": "안내데스크 (출구)",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "288",
+      "y": "2098"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "가-2",
+    "booth_name": "안내데스크 (입구)",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "288",
+      "y": "2644"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "나",
+    "booth_name": "운영본부",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "1234",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "다",
+    "booth_name": "물품보관소",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "1942",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "라",
+    "booth_name": "탈의실",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "2298",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "마",
+    "booth_name": "포토존",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "785",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "바",
+    "booth_name": "드로잉존",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "867",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
     "booth_number": "V1",
     "booth_name": "요거지",
     "operator_name": "",
@@ -618,7 +723,7 @@
   {
     "booth_number": "V63",
     "booth_name": "사미무해",
-    "operator_name": "사쿠야 사미",
+    "operator_name": "사큐아 사미",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -868,111 +973,6 @@
     }
   },
   {
-    "booth_number": "가-1",
-    "booth_name": "안내데스크 (출구)",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "288",
-      "y": "2098"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "가-2",
-    "booth_name": "안내데스크 (입구)",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "288",
-      "y": "2644"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "나",
-    "booth_name": "운영본부",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "1234",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "다",
-    "booth_name": "물품보관소",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "1942",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "라",
-    "booth_name": "탈의실",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "2298",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "마",
-    "booth_name": "포토존",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "785",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "바",
-    "booth_name": "드로잉존",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "867",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
     "booth_number": "C1",
     "booth_name": "버추얼 유니온",
     "operator_name": "",
@@ -997,8 +997,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "2398",
+      "y": "363"
     },
     "head": false
   },
@@ -1012,8 +1012,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "2398",
+      "y": "1047"
     },
     "head": false
   },
@@ -1027,8 +1027,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "313",
-      "y": ""
+      "x": "2398",
+      "y": "1730"
     },
     "head": false
   },
@@ -1042,8 +1042,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "313",
-      "y": ""
+      "x": "2398",
+      "y": "2193"
     },
     "head": false
   },
@@ -1132,8 +1132,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "914",
+      "y": "1951"
     },
     "head": false
   },
@@ -1147,8 +1147,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "1048",
+      "y": "2018"
     },
     "head": false
   },
@@ -1162,8 +1162,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "914",
+      "y": "2085"
     },
     "head": false
   },
@@ -1177,8 +1177,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "1583",
+      "y": "1951"
     },
     "head": false
   },
@@ -1192,8 +1192,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "1516",
+      "y": "2085"
     },
     "head": false
   },
@@ -1207,8 +1207,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "",
-      "y": ""
+      "x": "1650",
+      "y": "2085"
     },
     "head": false
   }
