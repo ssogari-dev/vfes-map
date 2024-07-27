@@ -1,110 +1,5 @@
 [
   {
-    "booth_number": "가-1",
-    "booth_name": "안내데스크 (출구)",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "288",
-      "y": "2098"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "가-2",
-    "booth_name": "안내데스크 (입구)",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "288",
-      "y": "2644"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "나",
-    "booth_name": "운영본부",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "1234",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "다",
-    "booth_name": "물품보관소",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "1942",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "라",
-    "booth_name": "탈의실",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "2298",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "마",
-    "booth_name": "포토존",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "785",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
-    "booth_number": "바",
-    "booth_name": "드로잉존",
-    "operator_name": "",
-    "category": "",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
-    "coordinates": {
-      "x": "867",
-      "y": "2651"
-    },
-    "head": true
-  },
-  {
     "booth_number": "V1",
     "booth_name": "요거지",
     "operator_name": "",
@@ -275,7 +170,7 @@
   {
     "booth_number": "V16",
     "booth_name": "아오 유명해지고싶다 냥",
-    "operator_name": "아오",
+    "operator_name": "아오냥",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -359,7 +254,7 @@
   {
     "booth_number": "V25",
     "booth_name": "버튜버가 직..직접 부스를 운영하는 건.. 언버츄얼하다고 생각해요오... ((그게 무슨 소리니 레샌레샌아",
-    "operator_name": "레",
+    "operator_name": "레샌",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -387,7 +282,7 @@
   {
     "booth_number": "V27",
     "booth_name": "이나와 호랑이굴",
-    "operator_name": "이",
+    "operator_name": "이나",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -401,7 +296,7 @@
   {
     "booth_number": "V28",
     "booth_name": "브이박스",
-    "operator_name": "빙크",
+    "operator_name": "빙크림",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -485,7 +380,7 @@
   {
     "booth_number": "V37",
     "booth_name": "반짝 주파수",
-    "operator_name": "곰부",
+    "operator_name": "곰부게",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -499,7 +394,7 @@
   {
     "booth_number": "V38",
     "booth_name": "가치코이는안하지만날사랑해줘",
-    "operator_name": "코",
+    "operator_name": "코메✦Comet",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -541,7 +436,7 @@
   {
     "booth_number": "V43",
     "booth_name": "버미육 인력연구소",
-    "operator_name": "Team. Azure Sky Studio",
+    "operator_name": "",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -583,7 +478,7 @@
   {
     "booth_number": "V46",
     "booth_name": "다정한 일등성",
-    "operator_name": "청",
+    "operator_name": "청룬",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -597,7 +492,7 @@
   {
     "booth_number": "V47",
     "booth_name": "루스티카나의 마법공방",
-    "operator_name": "",
+    "operator_name": "Team. Azure Sky Studio",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -681,7 +576,7 @@
   {
     "booth_number": "V56",
     "booth_name": "양지를 지향하는 신사들의 쉼터",
-    "operator_name": "uc, 도마전도",
+    "operator_name": "uc, 도마전도사",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -709,7 +604,7 @@
   {
     "booth_number": "V61",
     "booth_name": "프로젝트 텐타쿠",
-    "operator_name": "텐타",
+    "operator_name": "텐타쿠",
     "category": "개인",
     "items_sold": "",
     "all_tag": "V62, ",
@@ -723,7 +618,7 @@
   {
     "booth_number": "V63",
     "booth_name": "사미무해",
-    "operator_name": "사큐아 사",
+    "operator_name": "사큐아 사미",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -737,7 +632,7 @@
   {
     "booth_number": "V64",
     "booth_name": "이 고양이는 무료로 해줍니다",
-    "operator_name": "블라",
+    "operator_name": "블라미",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -765,7 +660,7 @@
   {
     "booth_number": "V66",
     "booth_name": "죽미살미",
-    "operator_name": "탄단",
+    "operator_name": "탄단지",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -779,7 +674,7 @@
   {
     "booth_number": "V67",
     "booth_name": "귀여운 버츄얼이 좋아요",
-    "operator_name": "마리",
+    "operator_name": "마리엘",
     "category": "개인",
     "items_sold": "",
     "all_tag": "V68, ",
@@ -849,7 +744,7 @@
   {
     "booth_number": "V75",
     "booth_name": "사케연어",
-    "operator_name": "사케오니",
+    "operator_name": "사케오니쨩",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -933,7 +828,7 @@
   {
     "booth_number": "V84",
     "booth_name": "리피의 행복한 버츄얼 생활",
-    "operator_name": "리",
+    "operator_name": "리피",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
@@ -971,6 +866,111 @@
       "x": "1406",
       "y": "1525"
     }
+  },
+  {
+    "booth_number": "가-1",
+    "booth_name": "안내데스크 (출구)",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "288",
+      "y": "2098"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "가-2",
+    "booth_name": "안내데스크 (입구)",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "288",
+      "y": "2644"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "나",
+    "booth_name": "운영본부",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "1234",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "다",
+    "booth_name": "물품보관소",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "1942",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "라",
+    "booth_name": "탈의실",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "2298",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "마",
+    "booth_name": "포토존",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "785",
+      "y": "2651"
+    },
+    "head": true
+  },
+  {
+    "booth_number": "바",
+    "booth_name": "드로잉존",
+    "operator_name": "",
+    "category": "",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "867",
+      "y": "2651"
+    },
+    "head": true
   },
   {
     "booth_number": "C1",
