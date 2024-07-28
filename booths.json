@@ -527,9 +527,9 @@
   {
     "booth_number": "V41",
     "booth_name": "VTCG",
-    "operator_name": "VTCG",
+    "operator_name": "VTCG, 코어",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "'버튜버'들의 능력, 권능, 특권 등을 카드로 복사하여 특별한 능력의 카드를 이용해 싸우는 오프라인 카드 게임 'VTCG'#VTCG 카드 게임 테스트 플레이 (체험)",
     "all_tag": "V42, ",
     "info_url": "",
     "twt_id": "VTCG_ALV_001",
@@ -723,7 +723,7 @@
   {
     "booth_number": "V63",
     "booth_name": "사미무해",
-    "operator_name": "사큐아 사미",
+    "operator_name": "사큐아 사미, 키리우미 무해",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
