@@ -168,7 +168,7 @@
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "Berkut000475661",
     "coordinates": {
       "x": "1306",
       "y": "345"
@@ -403,7 +403,7 @@
     "booth_name": "브이박스",
     "operator_name": "빙크림",
     "category": "개인",
-    "items_sold": "키링 (요나, 이주인, 이큐, 하야시 이로, 타츠메 유키, 디아나, 코오리 세라, 루비엘, 아이리 칸나, 아야츠노 유니, 빵룽), 수영복 키링·코롯토(요나, 이주인, 모비, 츄로스, 큐붕이)",
+    "items_sold": "키링 (요나, 이주인, 이큐, 하야시 이로, 타츠메 유키, 디아나, 코오리 세라, 루비엘, 아이리 칸나, 아야츠노 유니, 빵룽)#수영복 키링·코롯토 (요나, 이주인, 모비, 츄로스, 큐붕이)",
     "all_tag": "버츄얼헤르츠(이큐), 브이리지(요나, 코오리 세라, 루비엘), 브이럽(이주인), 오로라 프로젝트(하야시 이로, 타츠메 유키), 스텔라이브(아이리 칸나, 아야츠노 유니), 빵룽, 큐붕이, 모비, 츄로스, 순백의 와이셔츠 대롱 키링, 더운 여름을 이겨내는 수영복, vllage, virtual hertz, vhz, v-llage, vlup, v-lup, aurora project, stellive",
     "info_url": "",
     "twt_id": "Bingcream_",
@@ -446,9 +446,9 @@
     "operator_name": "",
     "category": "개인",
     "items_sold": "",
-    "all_tag": "",
+    "all_tag": "스텔라이브, stellive, ",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "moizi121",
     "coordinates": {
       "x": "1148",
       "y": "773"
@@ -546,7 +546,7 @@
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "kodo_kimcode",
     "coordinates": {
       "x": "1090",
       "y": "935"
@@ -658,7 +658,7 @@
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "birdegg11111",
     "coordinates": {
       "x": "1148",
       "y": "1068"
@@ -980,7 +980,7 @@
     "items_sold": "",
     "all_tag": "C2, C3, C4, 버츄얼유니온, 버니온",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "virtual_union",
     "coordinates": {
       "x": "1589",
       "y": "2651"
@@ -995,7 +995,7 @@
     "items_sold": "",
     "all_tag": "C6, C7, C8, 데부메이트, Devmate, vllage, v-llage, 브이리지, 플로리스 로에, 요나, 에피오네 나시아, 아스테리 에프타, 쿠로가미 사샤, 티그리스 카닌, 코오리 세라, 루비엘, 라니에, 무뉴뉴",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "v_llage",
     "coordinates": {
       "x": "2398",
       "y": "363"
@@ -1010,7 +1010,7 @@
     "items_sold": "",
     "all_tag": "C10, C11, C12, vlup, v-lup, 이주인, 벨디르 미스틸테인 아스티즈 베들폴리니아 나인 아차트라 페이챠리온 나트리그, 이아나 이그노시스, 시트리, 노이, 리미, 라",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "V_LUP_Official",
     "coordinates": {
       "x": "2398",
       "y": "1047"
@@ -1025,7 +1025,7 @@
     "items_sold": "",
     "all_tag": "C13, C14, C15, C16, vhz, 버츄얼헤르츠, 버추얼헤르츠, 버헤, virtual hertz, 이큐, 아오, 니나, 슈네, eque, ao, nina, shune",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "VHZ_ent",
     "coordinates": {
       "x": "2398",
       "y": "1730"
@@ -1034,13 +1034,13 @@
   },
   {
     "booth_number": "C17",
-    "booth_name": "츠라이 컴퍼티",
+    "booth_name": "츠라이 컴퍼니",
     "operator_name": "(주)츠라이컴퍼니",
     "category": "기업",
     "items_sold": "",
     "all_tag": "tsurai company, 뿌요, puyo,",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "TsuraiCompanyKR",
     "coordinates": {
       "x": "2398",
       "y": "2193"
@@ -1070,7 +1070,7 @@
     "items_sold": "",
     "all_tag": "C21, C22, ",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "MELIGO_Official",
     "coordinates": {
       "x": "313",
       "y": "877"
@@ -1130,7 +1130,7 @@
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "STAT_Open",
     "coordinates": {
       "x": "914",
       "y": "1951"
@@ -1142,8 +1142,8 @@
     "booth_name": "알플레이",
     "operator_name": "플랙스뉴럴랩스",
     "category": "기업",
-    "items_sold": "알플레이#아스트리아#프로젝트 세레니티",
-    "all_tag": "C29, rplay, 프로젝트세레니티, project serenity, 무라사키 치즈루, 아야세 테라, 와루야기 모쿠, 주로비, astria, 아스트리아, 엘로디아 시냐",
+    "items_sold": "알플레이#아스트리아#프로젝트 세레니티#루시 아카데미",
+    "all_tag": "C29, rplay, 프로젝트세레니티, project serenity, 무라사키 치즈루, 아야세 테라, 와루야기 모쿠, 주로비, astria, 아스트리아, 엘로디아 시냐, 루시 아카데미, lussi academy",
     "info_url": "",
     "twt_id": "RPLAY_m",
     "coordinates": {
@@ -1155,12 +1155,11 @@
   {
     "booth_number": "C30",
     "booth_name": "브이레코드",
-    "operator_name": "브이레코드",
     "category": "기업",
     "items_sold": "",
     "all_tag": "vrecord, ",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "vrecordinfo",
     "coordinates": {
       "x": "1048",
       "y": "1951"
@@ -1175,7 +1174,7 @@
     "items_sold": "",
     "all_tag": "C32,",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "MASCOZ_Official",
     "coordinates": {
       "x": "1583",
       "y": "1951"
@@ -1190,7 +1189,7 @@
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "atechnet77",
     "coordinates": {
       "x": "1516",
       "y": "2085"
@@ -1203,9 +1202,9 @@
     "operator_name": "",
     "category": "기업",
     "items_sold": "",
-    "all_tag": "",
+    "all_tag": "므나, muna, 유우키 키슈, kishu, ara, 세르티 아라, linklive",
     "info_url": "",
-    "twt_id": "",
+    "twt_id": "_linklive",
     "coordinates": {
       "x": "1650",
       "y": "2085"
