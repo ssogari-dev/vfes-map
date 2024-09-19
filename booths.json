@@ -9,8 +9,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "288",
-      "y": "2098"
+      "x": "55",
+      "y": "776"
     },
     "head": true
   },
@@ -24,8 +24,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "288",
-      "y": "2644"
+      "x": "55",
+      "y": "973"
     },
     "head": true
   },
@@ -39,8 +39,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1234",
-      "y": "2651"
+      "x": "658",
+      "y": "974"
     },
     "head": true
   },
@@ -54,23 +54,23 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1942",
-      "y": "2651"
+      "x": "854",
+      "y": "950"
     },
     "head": true
   },
   {
     "booth_number": "라",
-    "booth_name": "탈의실",
-    "operator_name": "",
+    "booth_name": "배송대장",
+    "operator_name": "배송대장",
     "category": "",
-    "items_sold": "",
+    "items_sold": "22일 일요일, 부스 철수 후 귀가 택배를 신청하세요!",
     "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
+    "info_url": "https://blog.naver.com/prriad81/223576848467",
+    "twt_id": "baesong_dj",
     "coordinates": {
-      "x": "2298",
-      "y": "2651"
+      "x": "651",
+      "y": "70"
     },
     "head": true
   },
@@ -84,8 +84,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "785",
-      "y": "2651"
+      "x": "249",
+      "y": "870"
     },
     "head": true
   },
@@ -99,8 +99,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "867",
-      "y": "2651"
+      "x": "219",
+      "y": "870"
     },
     "head": true
   },
@@ -114,8 +114,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "961",
-      "y": "345"
+      "x": "362",
+      "y": "138"
     }
   },
   {
@@ -123,13 +123,13 @@
     "booth_name": "버추어 캅",
     "operator_name": "호노키 (炎ワ木)",
     "category": "개인",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
+    "items_sold": "아크릴 스탠드 (나나시 무메이, 아야츠노 유니)#패치 (토코야미 토와, 이오몽)",
+    "all_tag": "홀로라이브, hololive, 스텔라이브, stellive, 미츄, meechu, 이오몽",
+    "info_url": "https://x.com/7A4ys/status/1836806976753615326",
     "twt_id": "7A4ys",
     "coordinates": {
-      "x": "1090",
-      "y": "345"
+      "x": "430",
+      "y": "138"
     }
   },
   {
@@ -142,50 +142,50 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1148",
-      "y": "345"
+      "x": "464",
+      "y": "138"
     }
   },
   {
     "booth_number": "V5",
     "booth_name": "이세계공방",
-    "operator_name": "",
+    "operator_name": "이세계 대장장이",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "박도나 피규어#플로리스 로에 피규어#테리 피규어#나츠키 피규어#아야츠노 유니 피규어#팬캐릭터 키링 (빵다, 올리고당, 큐붕이, 알로에)#러브다이아 박도나 티셔츠#스텔라이브 리코 티셔츠#브이리지 로에 티셔츠#브이리지 카닌 티셔츠#아크릴 무드등 (박도나, 카닌)#아크릴 스탠드 (박도나, 카닌, 로에, 리코)",
     "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
+    "info_url": "https://x.com/garubilu/status/1828069915594838159",
+    "twt_id": "garubilu",
     "coordinates": {
-      "x": "1248",
-      "y": "345"
+      "x": "498",
+      "y": "138"
     }
   },
   {
     "booth_number": "V6",
     "booth_name": "졸업앨범",
-    "operator_name": "",
+    "operator_name": "[유이_62](https://twitter.com/yui__62) & [5번국도 자라니](https://twitter.com/Berkut000475661)",
     "category": "개인",
     "items_sold": "포토카드 ()#와앙! 포카 ()#키링 ()#엽서 ()",
     "all_tag": "",
     "info_url": "https://x.com/yui__62/status/1833538253380850178",
     "twt_id": "yui__62",
     "coordinates": {
-      "x": "1306",
-      "y": "345"
+      "x": "532",
+      "y": "138"
     }
   },
   {
     "booth_number": "V7",
     "booth_name": "팔로우 목록 공개",
-    "operator_name": "[와이비엠](https://x.com/ybm_desu) & [주먹빱](https://x.com/llS2__S2ll)",
+    "operator_name": "[와이비엠](https://x.com/ybm_desu/status/1834466138643988697) & [주먹빱](https://x.com/llS2__S2ll/status/1835467276541477174)",
     "category": "개인",
-    "items_sold": "아크릴 키링 (유논, 타루, 헤스, 리리스, 뮬, 루시드)#유논 만쥬인형#유논 아크릴 스탠드#브이레코드 렌티큘러 카드",
-    "all_tag": "브이레코드, vrecord, 아지카타 유논, ",
+    "items_sold": "아크릴 키링 (유논, 타루, 헤스, 리리스, 뮬, 루시드)#유논 만쥬인형#유논 아크릴 스탠드#브이레코드 렌티큘러 카드#스텔라이브 아크릴 키링 (칸나, 히나, 나나)#브이레코드 정사각 카드 (유논, 루시드)#프리유니 아크릴 스탠드 (체르미아, 세르아)#이로나묭 치카&치약 종이 카드",
+    "all_tag": "브이레코드, vrecord, 아지카타 유논, 프리 유니버스, 이로나묭 치카, 스텔라이브, stellive, pre universe",
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1406",
-      "y": "345"
+      "x": "566",
+      "y": "138"
     }
   },
   {
@@ -198,8 +198,8 @@
     "info_url": "https://x.com/goodswork_/status/1834043711849972061",
     "twt_id": "goodswork_",
     "coordinates": {
-      "x": "1564",
-      "y": "345"
+      "x": "600",
+      "y": "138"
     }
   },
   {
@@ -207,13 +207,13 @@
     "booth_name": "하꼬인더박스",
     "operator_name": "",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "아크릴 블럭 (루비 포르테스, 설구리, 다미로, 라나드, 반야, 포티샤, 다미로)#스머인더박스 아크릴 스탠드 (리아 에메랄드, 루비 포르테스, 다미로)#포토카드 (루비 포르테스, 밴드부 다미로, 카밀레, 예시니랑, 다미로)#떡메모지 (해변동동, 벚꽃, 유치원)#아크릴 스탠드 (루비 서큐버스, 리아네 서큐버스, 수영복 카밀레, 수영복 예시니랑, 수영복 루비, 수영복 나린)#다미로 해씨 키링#다미로 & 다로미 아크릴 스탠드#아크릴 키링 (유치원선생님 루비, 유치원 리아 에메랄드, 유치원 다미로, 다미로, 포티샤)",
     "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
+    "info_url": "https://x.com/kamille_pic/status/1835215955695485045",
+    "twt_id": "kamille_pic",
     "coordinates": {
-      "x": "932",
-      "y": "477"
+      "x": "362",
+      "y": "194"
     }
   },
   {
@@ -226,8 +226,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "990",
-      "y": "477"
+      "x": "396",
+      "y": "194"
     }
   },
   {
@@ -240,8 +240,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1090",
-      "y": "477"
+      "x": "430",
+      "y": "194"
     }
   },
   {
@@ -254,22 +254,22 @@
     "info_url": "https://x.com/sangchu_0o0a/status/1835005377404146133",
     "twt_id": "sangchu_0o0a",
     "coordinates": {
-      "x": "1148",
-      "y": "477"
+      "x": "464",
+      "y": "194"
     }
   },
   {
     "booth_number": "V15",
     "booth_name": "유네트",
-    "operator_name": "사벨린",
+    "operator_name": "유네트",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "유네트 랜덤 포카 12종#유네트 단체 교복 엽서#폴라로이드#교복 인생네컷 엽서#띠부씰 4종#기념일 키링 (2주년 이안, 2주년 시안, 1주년 사벨린, 1주년 필리샤)#팬덤 키링 (피스, 루비, 뭉치, 꽃심이)#교복 아크릴 스탠드",
     "all_tag": "",
-    "info_url": "",
-    "twt_id": "Unet_SaBellin",
+    "info_url": "https://x.com/V_Unet/status/1836337303784140945",
+    "twt_id": "V_Unet",
     "coordinates": {
-      "x": "1248",
-      "y": "477"
+      "x": "498",
+      "y": "194"
     }
   },
   {
@@ -277,27 +277,27 @@
     "booth_name": "아오 유명해지고싶다 냥",
     "operator_name": "아오냥",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "아오냥 게이밍 장패드#아오냥 SD 메이드 키링#아오냥 메이드 비어글라스#아크릴 스탠드 (교복, 오피스)#수영복 족자봉#아오냥 포토카드##[네페르](https://twitter.com/Nepereu3u) 포토카드 & 랜덤뽑기#네페르 투명 포토카드#네페르 엽서#네페르 아크릴 스탠드#네페르 키링 & 코롯토",
     "all_tag": "",
-    "info_url": "",
+    "info_url": "https://x.com/Vtuber_AOnyan/status/1835159850327982524",
     "twt_id": "Vtuber_AOnyan",
     "coordinates": {
-      "x": "1306",
-      "y": "477"
+      "x": "532",
+      "y": "194"
     }
   },
   {
     "booth_number": "V17",
     "booth_name": "에룻후후후",
-    "operator_name": "",
+    "operator_name": "[에룻후](https://twitter.com/Eruthu999) & [챔기름](https://twitter.com/nyamnya58980566)",
     "category": "개인",
-    "items_sold": "",
-    "all_tag": "V18, V19, V20, ",
-    "info_url": "",
+    "items_sold": "왕감자(강지) 아크릴 스탠드#칸나 & 유니 디오라마#투명 카드텍 (왕감자, 유니, 칸나)#수영복 코롯토 (칸나, 유니, 리제)#LD 포카리 유니 아크릴 스탠드#신의상 유니 디오라마#아크릴 스탠드 (포테땅, 칸나, 유니)#스텔라이브 1기생 족자봉 (칸나, 유니)#아크릴 키링 (포테땅, 칸나, 유니, 타비)#스텔라이브 2기생 코롯토 (타비, 히나, 시로, 리제)#히나 & 시로 아크릴 스탠드#러브다이아 라이더 디오라마 & 대형 족자봉 & 투명 포토카드 (박도나, 이아니, 빙하유, 양메이, 유리리)",
+    "all_tag": "V18, V19, V20, 스텔라이브, stellive, 러브다이아, luvdia",
+    "info_url": "https://x.com/Eruthu999/status/1829882559901380763",
     "twt_id": "",
     "coordinates": {
-      "x": "1514",
-      "y": "477"
+      "x": "566",
+      "y": "194"
     }
   },
   {
@@ -305,13 +305,13 @@
     "booth_name": "홉홉팩토리",
     "operator_name": "Poifrog",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "팀 탕후루 수제 피규어 (샤메이, 감군장, 히미캉)#아티산 키캡 (샤메이, 감군장, 히미캉, 디아나, 모야지, 감토리)",
     "all_tag": "",
-    "info_url": "",
+    "info_url": "https://x.com/Poifrog_/status/1836318022585483763",
     "twt_id": "Poifrog_",
     "coordinates": {
-      "x": "932",
-      "y": "639"
+      "x": "362",
+      "y": "263"
     }
   },
   {
@@ -324,8 +324,8 @@
     "info_url": "https://x.com/KLian__/status/1832191037839962382",
     "twt_id": "KLian__",
     "coordinates": {
-      "x": "990",
-      "y": "639"
+      "x": "396",
+      "y": "263"
     }
   },
   {
@@ -338,8 +338,8 @@
     "info_url": "https://x.com/firanstill1/status/1834758974551294025",
     "twt_id": "firanstill1",
     "coordinates": {
-      "x": "1090",
-      "y": "639"
+      "x": "430",
+      "y": "263"
     }
   },
   {
@@ -352,8 +352,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1148",
-      "y": "639"
+      "x": "464",
+      "y": "263"
     }
   },
   {
@@ -366,8 +366,8 @@
     "info_url": "",
     "twt_id": "redsand_v",
     "coordinates": {
-      "x": "1248",
-      "y": "639"
+      "x": "498",
+      "y": "263"
     }
   },
   {
@@ -380,8 +380,8 @@
     "info_url": "https://x.com/arong_eee/status/1833505237392601568",
     "twt_id": "arong_eee",
     "coordinates": {
-      "x": "1306",
-      "y": "639"
+      "x": "532",
+      "y": "263"
     }
   },
   {
@@ -394,8 +394,8 @@
     "info_url": "https://x.com/ina_816/status/1834918049314750957",
     "twt_id": "ina_816",
     "coordinates": {
-      "x": "1406",
-      "y": "639"
+      "x": "566",
+      "y": "263"
     }
   },
   {
@@ -408,8 +408,8 @@
     "info_url": "https://x.com/Bingcream_/status/1830537612026933314",
     "twt_id": "Bingcream_",
     "coordinates": {
-      "x": "1464",
-      "y": "639"
+      "x": "600",
+      "y": "263"
     }
   },
   {
@@ -422,8 +422,8 @@
     "info_url": "",
     "twt_id": "diahnaing",
     "coordinates": {
-      "x": "1593",
-      "y": "639"
+      "x": "634",
+      "y": "263"
     }
   },
   {
@@ -436,8 +436,8 @@
     "info_url": "https://x.com/ArkSu_/status/1833101542355837415",
     "twt_id": "ArkSu_",
     "coordinates": {
-      "x": "990",
-      "y": "773"
+      "x": "362",
+      "y": "319"
     }
   },
   {
@@ -450,8 +450,8 @@
     "info_url": "https://x.com/moizi121/status/1834888080479944930",
     "twt_id": "moizi121",
     "coordinates": {
-      "x": "1148",
-      "y": "773"
+      "x": "464",
+      "y": "319"
     }
   },
   {
@@ -464,8 +464,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1248",
-      "y": "773"
+      "x": "498",
+      "y": "319"
     }
   },
   {
@@ -478,8 +478,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1306",
-      "y": "773"
+      "x": "532",
+      "y": "319"
     }
   },
   {
@@ -492,8 +492,8 @@
     "info_url": "",
     "twt_id": "ku_bear22",
     "coordinates": {
-      "x": "1406",
-      "y": "773"
+      "x": "566",
+      "y": "319"
     }
   },
   {
@@ -501,27 +501,27 @@
     "booth_name": "가치코이는안하지만날사랑해줘",
     "operator_name": "코메✦Comet",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "코메 선장 장패드 & 안경닦이#아크릴 스탠드 (코메 선장, 잠옷, 메이드)#미니코메 키링 & 코롯토#수영복 코메 방수 포스터 (싸인 有)#배뽈록 와앙 포카#선장과 아이들 스티커#빙글빙글 아크릴 스탠드#선장 코메 (키링 & 스탠드)#스키키라이 코메 (키링 & 스탠드)#레트로 코메 아크릴 집게 & 머그컵",
     "all_tag": "",
-    "info_url": "",
+    "info_url": "https://x.com/Ne_comet/status/1835293998417891689",
     "twt_id": "Ne_comet",
     "coordinates": {
-      "x": "1464",
-      "y": "773"
+      "x": "600",
+      "y": "319"
     }
   },
   {
     "booth_number": "V39",
     "booth_name": "버모노프렌즈",
-    "operator_name": "",
+    "operator_name": "[디롬](https://twitter.com/romromroo) & [유하나](https://x.com/HanaU_Virtual) & [마리골드 베티](https://x.com/marigoldbat)",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "뉴디롬 일러스트 디오라마#뉴디롬 페이스 마그넷#뉴디롬 대롱대롱 양면 키링#뉴디롬 전신 양면 아크릴 스탠드#뉴디롬 SD 양면 아크릴 키링#뉴디롬 대형 장패드#뉴디롬 원형 핀버튼 세트#뉴디롬 로고 양면 아크릴 키링#리뉴얼! 양면 대롱대롱 키링 (치즈루, 디아나, 니나, 루엘, ?)#이주인 & 츄로스 코롯토 세트#단면 대롱대롱 키링 ()#니나 운명의 빛 엽서 & 렌티큘러 포토카드",
     "all_tag": "V40, ",
-    "info_url": "",
+    "info_url": "https://x.com/romromroo/status/1833818232912011277",
     "twt_id": "",
     "coordinates": {
-      "x": "1593",
-      "y": "773"
+      "x": "634",
+      "y": "319"
     }
   },
   {
@@ -534,22 +534,22 @@
     "info_url": "https://twitter.com/VTCG_ALV_001/status/1816371221057134711",
     "twt_id": "VTCG_ALV_001",
     "coordinates": {
-      "x": "961",
-      "y": "935"
+      "x": "362",
+      "y": "388"
     }
   },
   {
     "booth_number": "V43",
     "booth_name": "버미육 인력연구소",
-    "operator_name": "",
+    "operator_name": "킹코도",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
     "info_url": "",
     "twt_id": "kodo_kimcode",
     "coordinates": {
-      "x": "1090",
-      "y": "935"
+      "x": "430",
+      "y": "388"
     }
   },
   {
@@ -562,8 +562,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1148",
-      "y": "935"
+      "x": "464",
+      "y": "388"
     }
   },
   {
@@ -576,8 +576,8 @@
     "info_url": "https://x.com/CHIIl0VE/status/1828787334235717939",
     "twt_id": "",
     "coordinates": {
-      "x": "1248",
-      "y": "935"
+      "x": "498",
+      "y": "388"
     }
   },
   {
@@ -590,8 +590,8 @@
     "info_url": "https://x.com/Cheong_Run/status/1830533449452822676",
     "twt_id": "Cheong_Run",
     "coordinates": {
-      "x": "1306",
-      "y": "935"
+      "x": "532",
+      "y": "388"
     }
   },
   {
@@ -604,8 +604,8 @@
     "info_url": "https://x.com/azuresky2524/status/1832351999742112227",
     "twt_id": "azuresky2524",
     "coordinates": {
-      "x": "1406",
-      "y": "935"
+      "x": "566",
+      "y": "388"
     }
   },
   {
@@ -618,22 +618,22 @@
     "info_url": "https://x.com/zcc4321/status/1828802302108688436/photo/1",
     "twt_id": "zcc4321",
     "coordinates": {
-      "x": "1464",
-      "y": "935"
+      "x": "600",
+      "y": "388"
     }
   },
   {
     "booth_number": "V49",
     "booth_name": "버츄얼 제작소",
-    "operator_name": "",
+    "operator_name": "[유청운](https://twitter.com/UnYuCheong) & [쿠요미](https://twitter.com/KUYOMI1013)",
     "category": "개인",
-    "items_sold": "",
+    "items_sold": "아크릴 키링 (브이리지, 브이럽 이노빌, 빵룽, 윤이온)#포토카드 (브이리지, 브이럽 이노빌, 빵룽, 윤이온)#와앙포카 (브이리지, 빵룽, 윤이온)#스텔라이브 칵테일 키링 (칸나, 유니)",
     "all_tag": "V50, ",
-    "info_url": "",
+    "info_url": "https://x.com/UnYucheong/status/1830156524142149885",
     "twt_id": "",
     "coordinates": {
-      "x": "1593",
-      "y": "935"
+      "x": "634",
+      "y": "388"
     }
   },
   {
@@ -646,8 +646,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "990",
-      "y": "1068"
+      "x": "362",
+      "y": "444"
     }
   },
   {
@@ -660,8 +660,8 @@
     "info_url": "",
     "twt_id": "birdegg11111",
     "coordinates": {
-      "x": "1148",
-      "y": "1068"
+      "x": "464",
+      "y": "444"
     }
   },
   {
@@ -674,8 +674,8 @@
     "info_url": "https://x.com/ANNS2_S2/status/1828673558337470814",
     "twt_id": "",
     "coordinates": {
-      "x": "1248",
-      "y": "1068"
+      "x": "498",
+      "y": "444"
     }
   },
   {
@@ -688,8 +688,8 @@
     "info_url": "https://x.com/manaita_suki/status/1832052364972605810",
     "twt_id": "",
     "coordinates": {
-      "x": "1306",
-      "y": "1068"
+      "x": "532",
+      "y": "444"
     }
   },
   {
@@ -702,8 +702,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1514",
-      "y": "1068"
+      "x": "566",
+      "y": "444"
     }
   },
   {
@@ -716,8 +716,8 @@
     "info_url": "https://x.com/ProjectTenTaku/status/1830047926027972750",
     "twt_id": "ProjectTenTaku",
     "coordinates": {
-      "x": "961",
-      "y": "1229"
+      "x": "362",
+      "y": "513"
     }
   },
   {
@@ -730,8 +730,8 @@
     "info_url": "https://x.com/sakuya_samiii/status/1827722712909008952",
     "twt_id": "",
     "coordinates": {
-      "x": "1090",
-      "y": "1229"
+      "x": "430",
+      "y": "513"
     }
   },
   {
@@ -744,8 +744,8 @@
     "info_url": "",
     "twt_id": "vlamy0808",
     "coordinates": {
-      "x": "1148",
-      "y": "1229"
+      "x": "464",
+      "y": "513"
     }
   },
   {
@@ -758,8 +758,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1248",
-      "y": "1229"
+      "x": "498",
+      "y": "513"
     }
   },
   {
@@ -772,8 +772,8 @@
     "info_url": "https://x.com/Danji_Bang/status/1834442114060747222",
     "twt_id": "Danji_Bang",
     "coordinates": {
-      "x": "1306",
-      "y": "1229"
+      "x": "532",
+      "y": "513"
     }
   },
   {
@@ -786,8 +786,8 @@
     "info_url": "",
     "twt_id": "S2_Mariel",
     "coordinates": {
-      "x": "1435",
-      "y": "1229"
+      "x": "566",
+      "y": "513"
     }
   },
   {
@@ -800,8 +800,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1593",
-      "y": "1229"
+      "x": "634",
+      "y": "513"
     }
   },
   {
@@ -814,8 +814,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "961",
-      "y": "1362"
+      "x": "362",
+      "y": "569"
     }
   },
   {
@@ -828,8 +828,8 @@
     "info_url": "https://x.com/ginseobang8857/status/1831681756048846918",
     "twt_id": "ginseobang8857",
     "coordinates": {
-      "x": "1090",
-      "y": "1362"
+      "x": "430",
+      "y": "569"
     }
   },
   {
@@ -837,13 +837,13 @@
     "booth_name": "아티손즈",
     "operator_name": "",
     "category": "개인",
-    "items_sold": "",
-    "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
+    "items_sold": "아티손즈 아크릴 스탠드#곰나루 스티커 & 포토카드 & 책갈피#코와가리 리유 & 청여운 극세 클리너#청여운 마우스패드#리유 증명사진#프루넬라 & 리유 아크릴 키링",
+    "all_tag": "프루넬라, 청여운, 코와가리 리유, 카시, 루시, 카시루시, 곰나루, bear_nalu, kassilusi, kowagari liyu, chungyoun, cheongyoun, prunella fruity, artisons",
+    "info_url": "https://x.com/Artisons_/status/1835366465882800312",
+    "twt_id": "Artisons_",
     "coordinates": {
-      "x": "1148",
-      "y": "1362"
+      "x": "464",
+      "y": "569"
     }
   },
   {
@@ -856,22 +856,22 @@
     "info_url": "",
     "twt_id": "O__Sa37135",
     "coordinates": {
-      "x": "1248",
-      "y": "1362"
+      "x": "498",
+      "y": "569"
     }
   },
   {
     "booth_number": "V76",
     "booth_name": "팩토리",
-    "operator_name": "",
+    "operator_name": "Factory",
     "category": "개인",
     "items_sold": "",
     "all_tag": "",
-    "info_url": "",
-    "twt_id": "",
+    "info_url": "https://x.com/picter12/status/1836801472291598669",
+    "twt_id": "picter12",
     "coordinates": {
-      "x": "1306",
-      "y": "1362"
+      "x": "532",
+      "y": "569"
     }
   },
   {
@@ -884,8 +884,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1406",
-      "y": "1362"
+      "x": "566",
+      "y": "569"
     }
   },
   {
@@ -898,8 +898,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1593",
-      "y": "1362"
+      "x": "634",
+      "y": "569"
     }
   },
   {
@@ -912,8 +912,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "961",
-      "y": "1525"
+      "x": "362",
+      "y": "638"
     }
   },
   {
@@ -926,8 +926,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1090",
-      "y": "1525"
+      "x": "430",
+      "y": "638"
     }
   },
   {
@@ -940,8 +940,8 @@
     "info_url": "",
     "twt_id": "lipi84142528969",
     "coordinates": {
-      "x": "1148",
-      "y": "1525"
+      "x": "464",
+      "y": "638"
     }
   },
   {
@@ -954,8 +954,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1277",
-      "y": "1525"
+      "x": "498",
+      "y": "638"
     }
   },
   {
@@ -968,8 +968,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "1406",
-      "y": "1525"
+      "x": "566",
+      "y": "638"
     }
   },
   {
@@ -982,8 +982,8 @@
     "info_url": "",
     "twt_id": "virtual_union",
     "coordinates": {
-      "x": "1589",
-      "y": "2651"
+      "x": "754",
+      "y": "950"
     },
     "head": false
   },
@@ -992,13 +992,13 @@
     "booth_name": "브이리지",
     "operator_name": "(주)데브메이트",
     "category": "기업",
-    "items_sold": "",
+    "items_sold": "브이리지 팬덤 캐릭터 '릿지' 공모전#뽑기 이벤트 진행##스페셜 웨딩 CG 아크릴 디오라마#포커 도트 코롯토#2024 브이페스 교복 아크릴 스탠드#로에 수영복 아크릴 스탠드 & 족자봉#로에 2주년 기념 모자 & 와펜 & 스티커#나시아 나모롱 포카 홀더#그 외 재판매 굿즈 (인포 확인)",
     "all_tag": "C6, C7, C8, 데부메이트, Devmate, vllage, v-llage, 브이리지, 플로리스 로에, 요나, 에피오네 나시아, 아스테리 에프타, 쿠로가미 사샤, 티그리스 카닌, 코오리 세라, 루비엘, 라니에, 무뉴뉴",
-    "info_url": "",
+    "info_url": "https://v-llage.com/posts/55448",
     "twt_id": "v_llage",
     "coordinates": {
-      "x": "2398",
-      "y": "363"
+      "x": "879",
+      "y": "148"
     },
     "head": false
   },
@@ -1007,13 +1007,13 @@
     "booth_name": "브이럽",
     "operator_name": "(주)크리에이터버스",
     "category": "기업",
-    "items_sold": "",
+    "items_sold": "이주인 & 데이스타 & 이노빌 (포토카드, 엽서, 캔뱃지, 투명 포토카드, 교통카드 스티커, 디오라마 아크릴, 오마모리)#브이럽 (A5 포스터, A5 6공 바인더북, 응원타올, 입체 아프로바 코롯토, 다용도 클리너, 틴케이스, 줄줄이 키링)#증정품 (카페 배너 카드텍, A5 L홀더, 도무송 SD스티커, A5 포스터)#※ [현장 소통 이벤트](https://x.com/V_LUP_Official/status/1833446035974496314) 진행",
     "all_tag": "C10, C11, C12, vlup, v-lup, 이주인, 벨디르 미스틸테인 아스티즈 베들폴리니아 나인 아차트라 페이챠리온 나트리그, 이아나 이그노시스, 시트리, 노이, 리미, 라",
-    "info_url": "",
+    "info_url": "https://www.youtube.com/watch?v=IRz-1WDzYC8",
     "twt_id": "V_LUP_Official",
     "coordinates": {
-      "x": "2398",
-      "y": "1047"
+      "x": "879",
+      "y": "390"
     },
     "head": false
   },
@@ -1022,13 +1022,13 @@
     "booth_name": "버츄얼 헤르츠",
     "operator_name": "(주)버츄얼헤르츠",
     "category": "기업",
-    "items_sold": "",
+    "items_sold": "R4 키캡 4종#아크릴 명찰#모양 쿠션#다키마쿠라#디오라마 아크릴#멀티클리너#색지#이큐 보조배터리#태피스트리#장패드#교복 아크릴 스탠드#아오 우산#니나 목걸이#슈네 전통부채#※ [단체 팬미팅](https://x.com/VHZ_ent/status/1834897127933460522) 진행",
     "all_tag": "C13, C14, C15, C16, vhz, 버츄얼헤르츠, 버추얼헤르츠, 버헤, virtual hertz, 이큐, 아오, 니나, 슈네, eque, ao, nina, shune",
-    "info_url": "",
+    "info_url": "https://x.com/VHZ_ent/status/1834883253410709683",
     "twt_id": "VHZ_ent",
     "coordinates": {
-      "x": "2398",
-      "y": "1730"
+      "x": "879",
+      "y": "631"
     },
     "head": false
   },
@@ -1042,8 +1042,8 @@
     "info_url": "",
     "twt_id": "TsuraiCompanyKR",
     "coordinates": {
-      "x": "2398",
-      "y": "2193"
+      "x": "879",
+      "y": "799"
     },
     "head": false
   },
@@ -1057,8 +1057,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "313",
-      "y": "399"
+      "x": "179",
+      "y": "155"
     },
     "head": false
   },
@@ -1068,12 +1068,27 @@
     "operator_name": "(주)필더세임",
     "category": "기업",
     "items_sold": "",
-    "all_tag": "C21, C22, ",
+    "all_tag": "",
     "info_url": "",
     "twt_id": "MELIGO_Official",
     "coordinates": {
-      "x": "313",
-      "y": "877"
+      "x": "179",
+      "y": "292"
+    },
+    "head": false
+  },
+  {
+    "booth_number": "C22",
+    "booth_name": "이벤트부스",
+    "operator_name": "이벤트부스",
+    "category": "기업",
+    "items_sold": "21일 (트루블루, 수련수련 사인회)#22일 (새양, 에짱, 슈마 사인회)",
+    "all_tag": "",
+    "info_url": "https://x.com/virtual_union/status/1834924047500820834",
+    "twt_id": "",
+    "coordinates": {
+      "x": "179",
+      "y": "381"
     },
     "head": false
   },
@@ -1087,8 +1102,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "313",
-      "y": "1220"
+      "x": "179",
+      "y": "469"
     },
     "head": false
   },
@@ -1102,8 +1117,8 @@
     "info_url": "",
     "twt_id": "m_ong_sang",
     "coordinates": {
-      "x": "313",
-      "y": "1480"
+      "x": "179",
+      "y": "555"
     },
     "head": false
   },
@@ -1117,8 +1132,8 @@
     "info_url": "",
     "twt_id": "",
     "coordinates": {
-      "x": "313",
-      "y": "1796"
+      "x": "179",
+      "y": "668"
     },
     "head": false
   },
@@ -1132,8 +1147,8 @@
     "info_url": "",
     "twt_id": "STAT_Open",
     "coordinates": {
-      "x": "914",
-      "y": "1951"
+      "x": "374",
+      "y": "731"
     },
     "head": false
   },
@@ -1142,13 +1157,13 @@
     "booth_name": "알플레이",
     "operator_name": "플랙스뉴럴랩스",
     "category": "기업",
-    "items_sold": "[알플레이](https://x.com/vchan_ent/status/1834524783192744263)(난바다 집게 & 족자봉, 할리스원더 머그컵, 수수 아크릴스탠드 & 장패드, 큐우티 머그컵, 한아멜 그립톡 & 머그컵)#",
+    "items_sold": "[브이쨩](https://x.com/vchan_ent/status/1834524783192744263) (난바다 집게 & 족자봉, 할리스원더 머그컵, 수수 아크릴스탠드 & 장패드, 큐우티 머그컵, 한아멜 그립톡 & 머그컵)#[프로젝트 세레니티](https://x.com/Serenity_Vtuber/status/1834781223400726871) (와루야기 모쿠 (캔뱃지, 코롯토, 족자봉, 엽서, 포토카드), 아야세 테라 (장패드, 족자봉, 코롯토, 스티커, 포토카드, 엽서), 무라사키 치즈루 (사원증, 스마트톡, 안경닦이, 코롯토, 로고 티셔츠, 줄줄이 키링))#[루시 아카데미](https://twitter.com/Lussi_Academy)",
     "all_tag": "C29, rplay, 프로젝트세레니티, project serenity, 무라사키 치즈루, 아야세 테라, 와루야기 모쿠, 주로비, astria, 아스트리아, 엘로디아 시냐, 루시 아카데미, lussi academy",
     "info_url": "",
     "twt_id": "RPLAY_m",
     "coordinates": {
-      "x": "981",
-      "y": "2085"
+      "x": "400",
+      "y": "782"
     },
     "head": false
   },
@@ -1156,13 +1171,13 @@
     "booth_number": "C30",
     "booth_name": "브이레코드",
     "category": "기업",
-    "items_sold": "",
+    "items_sold": "브이레코드 표류 드링크 (유논X루시드, 타루X뮬, 헤스X리리스, 세비아X천휘, 차가운X다비)#브이레코드 단말마 쿠키#브이레코드 멤버 찾기 이벤트",
     "all_tag": "vrecord, ",
-    "info_url": "",
+    "info_url": "https://cafe.naver.com/vrecord/27671",
     "twt_id": "vrecordinfo",
     "coordinates": {
-      "x": "1048",
-      "y": "1951"
+      "x": "426",
+      "y": "731"
     },
     "head": false
   },
@@ -1176,8 +1191,8 @@
     "info_url": "https://x.com/MASCOZ_Official/status/1833439116102664425",
     "twt_id": "MASCOZ_Official",
     "coordinates": {
-      "x": "1583",
-      "y": "1951"
+      "x": "638",
+      "y": "731"
     },
     "head": false
   },
@@ -1191,8 +1206,8 @@
     "info_url": "",
     "twt_id": "atechnet77",
     "coordinates": {
-      "x": "1516",
-      "y": "2085"
+      "x": "614",
+      "y": "782"
     },
     "head": false
   },
@@ -1206,8 +1221,53 @@
     "info_url": "",
     "twt_id": "_linklive",
     "coordinates": {
-      "x": "1650",
-      "y": "2085"
+      "x": "662",
+      "y": "782"
+    },
+    "head": false
+  },
+  {
+    "booth_number": "C35",
+    "booth_name": "에이크라운",
+    "operator_name": "잇츠하비",
+    "category": "기업",
+    "items_sold": "",
+    "all_tag": "C36, ",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "416",
+      "y": "974"
+    },
+    "head": false
+  },
+  {
+    "booth_number": "C37",
+    "booth_name": "스토리노바",
+    "operator_name": "아이드림스카이",
+    "category": "기업",
+    "items_sold": "",
+    "all_tag": "C38,",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "515",
+      "y": "974"
+    },
+    "head": false
+  },
+  {
+    "booth_number": "C39",
+    "booth_name": "모션테크놀로지",
+    "operator_name": "(주)모션테크놀로지",
+    "category": "기업",
+    "items_sold": "",
+    "all_tag": "",
+    "info_url": "",
+    "twt_id": "",
+    "coordinates": {
+      "x": "586",
+      "y": "974"
     },
     "head": false
   }
