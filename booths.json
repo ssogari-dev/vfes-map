@@ -457,7 +457,7 @@
     {
       "booth_number": "V35",
       "booth_name": "브이학원",
-      "operator_name": "",
+      "operator_name": "미아디아",
       "category": "개인",
       "items_sold": "",
       "all_tag": "",
@@ -513,14 +513,28 @@
     {
       "booth_number": "V39",
       "booth_name": "버모노프렌즈",
-      "operator_name": "[디롬](https://twitter.com/romromroo) & [유하나](https://x.com/HanaU_Virtual) & [마리골드 베티](https://x.com/marigoldbat)",
+      "operator_name": "디롬",
       "category": "개인",
-      "items_sold": "뉴디롬 일러스트 디오라마#뉴디롬 페이스 마그넷#뉴디롬 대롱대롱 양면 키링#뉴디롬 전신 양면 아크릴 스탠드#뉴디롬 SD 양면 아크릴 키링#뉴디롬 대형 장패드#뉴디롬 원형 핀버튼 세트#뉴디롬 로고 양면 아크릴 키링#리뉴얼! 양면 대롱대롱 키링 (치즈루, 디아나, 니나, 루엘, ?)#이주인 & 츄로스 코롯토 세트#단면 대롱대롱 키링 ()#니나 운명의 빛 엽서 & 렌티큘러 포토카드",
-      "all_tag": "V40, ",
+      "items_sold": "뉴디롬 일러스트 디오라마#뉴디롬 페이스 마그넷#뉴디롬 대롱대롱 양면 키링#뉴디롬 전신 양면 아크릴 스탠드#뉴디롬 SD 양면 아크릴 키링#뉴디롬 대형 장패드#뉴디롬 원형 핀버튼 세트#뉴디롬 로고 양면 아크릴 키링",
+      "all_tag": "",
       "info_url": "https://x.com/romromroo/status/1833818232912011277",
-      "twt_id": "",
+      "twt_id": "romromroo",
       "coordinates": {
         "x": "634",
+        "y": "319"
+      }
+    },
+    {
+      "booth_number": "V40",
+      "booth_name": "버모노프렌즈",
+      "operator_name": "[유하나](https://x.com/HanaU_Virtual) & [마리골드 베티](https://x.com/marigoldbat)",
+      "category": "개인",
+      "items_sold": "리뉴얼! 양면 대롱대롱 키링 (치즈루, 디아나, 니나, 루엘, ?)#이주인 & 츄로스 코롯토 세트#단면 대롱대롱 키링 ()#니나 운명의 빛 엽서 & 렌티큘러 포토카드",
+      "all_tag": "",
+      "info_url": "",
+      "twt_id": "",
+      "coordinates": {
+        "x": "668",
         "y": "319"
       }
     },
