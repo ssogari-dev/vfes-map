@@ -218,7 +218,7 @@
     },
     {
       "booth_number": "V12",
-      "booth_name": "파볼라",
+      "booth_name": "파볼라 (토요일 only)",
       "operator_name": "",
       "category": "개인",
       "items_sold": "콩눈이 키링 (미아, 밍디롱)#니케 키링 & 코롯토 (미아, 밍디롱)#아크릴 스탠드 (밍디롱)#색지 (미아, 밍디롱)#멀티 클리너 (미아, 밍디롱)#렌티큘러 (미아, 밍디롱)#장패드 (미아, 밍디롱)#키캡 (파볼라)#동물특공대 포토카드 (미아, 밍디롱)",
@@ -429,7 +429,7 @@
     {
       "booth_number": "V31",
       "booth_name": "버츄얼 다이소",
-      "operator_name": "[ArkSu_](https://twitter.com/ArkSu_) & -콩룡콩룡이](https://x.com/zhdfyddldpdy)",
+      "operator_name": "[ArkSu_](https://twitter.com/ArkSu_) & [콩룡콩룡이](https://x.com/zhdfyddldpdy) & [에이튼](https://twitter.com/sizeaton)",
       "category": "개인",
       "items_sold": "텐코 시부키 아크릴 스탠드 (한복, 수영복)#텐코 시부키 아크릴 코롯토 (휴식, 텐동)#수영복 우냐냥 디오라마 아크릴 스탠드#우냐냥 아크릴 스탠드#우냐냥 로이드 아크릴 키링#수영복 리미 아크릴 스탠드#버츄얼 헤르츠 아크릴 스탠드 홀더#시트리 흔들흔들 코롯토#[카르멘](https://x.com/status_sen) 초 슈퍼 울트라 하이퍼 메가 익스트림 디럭스 킹 갓 마스터 프리미엄 로열 마제스티 스페셜 어메이징 판타스틱 인피니트 퍼펙트 슈프림 익스클루시브 레전드 오브 레전드 엠페러 오브 유니버스 타이탄 오브 갤럭시 미라클 오브 타임 앤 스페이스 그랜드 엘리트 엑설런트 맥시멈 파워풀 언비터블 인빈시블 센세이셔널 트랜센던트 스펙타큘러 슈퍼노바 얼티밋 갓블레스드 비욘드 임머털 절대무적 초인류급 한정판 [센](https://x.com/status_sen) 스티커",
       "all_tag": "V32, V33, 카르멘 초 Super Ultra Hyper Mega Extreme Deluxe King God Master Premium Royal Majesty Special Amazing Fantastic Infinite Perfect Supreme Exclusive Legend of Legend Emperor of Universe Titan of Galaxy Miracle of Time and Space Grand Elite Excellent Maximum Powerful Unbeatable Invincible Sensational Transcendent Spectacular Supernova Ultimate God-blessed Beyond Immortal 스티커, ",
@@ -445,8 +445,8 @@
       "booth_name": "세레라이브",
       "operator_name": "",
       "category": "개인",
-      "items_sold": "스텔라이브 일러북#세레니티 코롯토",
-      "all_tag": "스텔라이브, stellive, ",
+      "items_sold": "스텔라이브 일러북 (B5, 16p)#세레니티 코롯토 (아야세 테라, 무라사키 치즈루, 와루야기 모쿠)",
+      "all_tag": "스텔라이브, stellive, 프로젝트 세레니티, project serenity ",
       "info_url": "https://x.com/moizi121/status/1834888080479944930",
       "twt_id": "moizi121",
       "coordinates": {
@@ -667,11 +667,11 @@
     {
       "booth_number": "V54",
       "booth_name": "책 먹는 여우신!",
-      "operator_name": "",
+      "operator_name": "새알이",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "스텔라이브 여름방학 아크릴 키링 (칸나, 유니, 히나, 타비, 마시로, 리제, 시부키, 린, 리코, 나나, 강지, 이브)#유니버스 아크릴 스탠드 (히나, 리제, 마시로, 타비)",
       "all_tag": "",
-      "info_url": "",
+      "info_url": "https://witchform.com/payform/?uuid=A0TWUWETBQ",
       "twt_id": "birdegg11111",
       "coordinates": {
         "x": "464",
@@ -793,12 +793,12 @@
     {
       "booth_number": "V67",
       "booth_name": "귀여운 버츄얼이 좋아요",
-      "operator_name": "마리엘",
+      "operator_name": "[마리엘](https://twitter.com/S2_Mariel) & [샨떡](https://twitter.com/SHANTTE0K)",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "아크릴 키링 & 코롯토 (샨떡, [투미츠](https://x.com/xndb004/status/1837070697623085524), 세라핌, [노랑새](https://x.com/Norang_Bird/status/1837077526180434364))#포토카드 (샨떡, 투미츠, 세라핌, 노랑새, 마리엘)#[아크릴 키링](https://x.com/S2_Mariel/status/1835766332719354321) (마리엘, 모모시로 카나, 민네, 에나, 빵룽, 이주인, 루묭)",
       "all_tag": "V68, ",
-      "info_url": "",
-      "twt_id": "S2_Mariel",
+      "info_url": "https://x.com/SHANTTE0K/status/1833182851891937569",
+      "twt_id": "",
       "coordinates": {
         "x": "566",
         "y": "513"
@@ -809,10 +809,10 @@
       "booth_name": "블리즈",
       "operator_name": "",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "★ 음식 선물 금지 / 멤버 터치 금지#( 인포 사진이 깨졌어요 )",
       "all_tag": "V70, ",
-      "info_url": "",
-      "twt_id": "",
+      "info_url": "https://cafe.naver.com/vlyz/19759",
+      "twt_id": "Vlyz_official",
       "coordinates": {
         "x": "634",
         "y": "513"
@@ -821,11 +821,11 @@
     {
       "booth_number": "V71",
       "booth_name": "잡탕후루후루",
-      "operator_name": "",
+      "operator_name": "[Cham](https://twitter.com/cham_illust) & [GOO](https://twitter.com/hochihochiha) & [hongsuk0](https://twitter.com/hongsuk0) & [Bangom](https://twitter.com/Arialos_9)",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "스텔라이브 아크릴 스탠드 (칸나, 유니, 리코, 타비 교복, 리제 교복, 히나 교복, 마시로 교복)#칸나 아크릴 디오라마#스텔라이브 아크릴 키링 (칸나, 유니, 시부키, 리코, 마시로, 타비, 히나)#홀로라이브 아크릴 스탠드 (왓슨, 카나타, 호쇼마린, 카나데, 클로에)#홀로라이브 아크릴 키링 (스이세이, 호쇼마린, 카나타, 아쿠아, 리리카, 라덴, 카나데)#김앵고 아크릴 스탠드#김앵고 일러스트 등신대 (21일 오후 3시 현장판매)#",
       "all_tag": "V72, ",
-      "info_url": "",
+      "info_url": "https://witchform.com/payform/JZLUWY9WUS",
       "twt_id": "",
       "coordinates": {
         "x": "362",
@@ -866,8 +866,8 @@
       "operator_name": "사케오니쨩",
       "category": "개인",
       "items_sold": "",
-      "all_tag": "",
-      "info_url": "",
+      "all_tag": "stellive, 스텔라이브, 스타데이즈, stardays, 브이레코드, vrecord",
+      "info_url": "https://x.com/O__Sa37135/status/1836312499358159024",
       "twt_id": "O__Sa37135",
       "coordinates": {
         "x": "498",
@@ -879,9 +879,9 @@
       "booth_name": "팩토리",
       "operator_name": "Factory",
       "category": "개인",
-      "items_sold": "",
-      "all_tag": "",
-      "info_url": "https://x.com/picter12/status/1836801472291598669",
+      "items_sold": "아이리 칸나 일러스트 북#푸른보석 칸나 아크릴 스탠드#리제 장패드#K-여고생 아크릴 스탠드 (리제, 마시로, 타비, 히나)#클리셰 아크릴 스탠드 (린, 시부키, 리코, 나나)#신의상 칸나 키링#웨딩 아크릴 스탠드 (칸나, 리제)#슈파도파 유니 아크릴 스탠드#코롯토 액자 (칸나, 리제)",
+      "all_tag": "스텔라이브, stellive, ",
+      "info_url": "https://x.com/picter12/status/1836941626507415635",
       "twt_id": "picter12",
       "coordinates": {
         "x": "532",
@@ -891,12 +891,12 @@
     {
       "booth_number": "V77",
       "booth_name": "VTuverse",
-      "operator_name": "",
+      "operator_name": "대근황",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "스텔라이브 치어리더 아크릴 스탠드 (강지, 이브, 칸나, 유니, 리제, 마시로, 타비, 히나, 시부키, 리코, 나나, 린)",
       "all_tag": "V78, ",
-      "info_url": "",
-      "twt_id": "",
+      "info_url": "https://witchform.com/deposit_form.php?idx=685051",
+      "twt_id": "yt9676",
       "coordinates": {
         "x": "566",
         "y": "569"
@@ -905,12 +905,12 @@
     {
       "booth_number": "V79",
       "booth_name": "포냐갤러리",
-      "operator_name": "",
+      "operator_name": "포냐",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "아크릴 스탠드 (아이리 칸나, 아야츠노 유니, 텐코 시부키)#시부키 굿즈 (와앙카드, 이중키링, 족자봉)#스텔라이브 키링 (칸나, 마시로)#포냐 굿즈 (포뇽쿤 키링, 포냐-포뇽쿤 키링, 포냐 뿌빠패드, 아크릴 스탠드)",
       "all_tag": "V80, ",
-      "info_url": "",
-      "twt_id": "",
+      "info_url": "https://cafe.naver.com/ponya0216/5015?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBvbnlhMDIxNiIsImFydGljbGVJZCI6NTAxNSwiaXNzdWVkQXQiOjE3MjY4MzQ4NzIzMzR9.K9IaLE9pEjIEC2_BHy9AWIWxVr5bgggvLjrAXeIReSI",
+      "twt_id": "PoNya_0216",
       "coordinates": {
         "x": "634",
         "y": "569"
@@ -919,12 +919,12 @@
     {
       "booth_number": "V81",
       "booth_name": "허니브러쉬월드",
-      "operator_name": "",
+      "operator_name": "꿀붓",
       "category": "개인",
       "items_sold": "",
       "all_tag": "V82, ",
       "info_url": "",
-      "twt_id": "",
+      "twt_id": "Honey_brush_Art",
       "coordinates": {
         "x": "362",
         "y": "638"
@@ -933,12 +933,12 @@
     {
       "booth_number": "V83",
       "booth_name": "겨울공방",
-      "operator_name": "",
+      "operator_name": "이겨울",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "아크릴 스탠드 (밴드 칸나, 밴드 유니, 밴드 히나 ,밴드 리제, 밴드 타비, 밴드 마시로)#미스틱 SD 빅 & 스몰 아크릴#30수 유니 티셔츠 XXL#칸나 & 유니 렌티큘러 세트",
       "all_tag": "",
-      "info_url": "",
-      "twt_id": "",
+      "info_url": "https://x.com/gyeou_lee/status/1835590998598255077",
+      "twt_id": "gyeou_lee",
       "coordinates": {
         "x": "430",
         "y": "638"
@@ -961,12 +961,12 @@
     {
       "booth_number": "V85",
       "booth_name": "이런 사장님은 좋아요",
-      "operator_name": "",
+      "operator_name": "의존",
       "category": "개인",
-      "items_sold": "",
+      "items_sold": "스텔라이브 여름휴가 장패드",
       "all_tag": "V86, ",
       "info_url": "",
-      "twt_id": "",
+      "twt_id": "JadeA5124",
       "coordinates": {
         "x": "498",
         "y": "638"
@@ -975,11 +975,11 @@
     {
       "booth_number": "V87",
       "booth_name": "씨푸더쿠 하나 조",
-      "operator_name": "",
+      "operator_name": "[Wakum](https://twitter.com/Wa_kum) & [ssong2](https://twitter.com/ssong2ne)",
       "category": "개인",
-      "items_sold": "",
-      "all_tag": "",
-      "info_url": "",
+      "items_sold": "유니 Live2D 월페이퍼#아크릴 스탠드 (수영복 히나, 수영복 리제, 수영복 칸나, 바니걸 유니, 사복 유니, 펑크룩 나나)#스텔라이브 팬 캐릭터 코롯토#유니 아크릴 블럭",
+      "all_tag": "씹덕하나줘, 스텔라이브, ",
+      "info_url": "https://x.com/Wa_kum/status/1837075552655777844",
       "twt_id": "",
       "coordinates": {
         "x": "566",
@@ -991,7 +991,7 @@
       "booth_name": "버추얼 유니온",
       "operator_name": "",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "윤이온 아크릴 스탠드 (교복, 윤이온, 흑발)#윤이온 학생증 (교복)#윤이온 명예사원증#브이페스티벌 엽서북#브이페스티벌 야광 응원봉#브이페스티벌 2025 캘린더#브이페스티벌 응원 타올#윤이온 장패드",
       "all_tag": "C2, C3, C4, 버츄얼유니온, 버니온",
       "info_url": "",
       "twt_id": "virtual_union",
@@ -1051,7 +1051,7 @@
       "booth_name": "츠라이 컴퍼니",
       "operator_name": "(주)츠라이컴퍼니",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "아이폰 16으로 바꿔서 신난 [뿌요](https://twitter.com/puyo_online)의 배포 스티커",
       "all_tag": "tsurai company, 뿌요, puyo,",
       "info_url": "",
       "twt_id": "TsuraiCompanyKR",
@@ -1066,9 +1066,9 @@
       "booth_name": "SOOP",
       "operator_name": "(주)SOOP",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "스트리머 라이브 팬미팅 이벤트# - 토요일 (바밍, 베베리, 고여름)# - 일요일 (따린, 엘시, 구슬요, 냐냐)",
       "all_tag": "C19, C20, 아프리카, 아프리카TV, afreeca, ",
-      "info_url": "",
+      "info_url": "https://x.com/virtual_union/status/1836000905982067057",
       "twt_id": "",
       "coordinates": {
         "x": "179",
@@ -1081,9 +1081,9 @@
       "booth_name": "MELIGO",
       "operator_name": "(주)필더세임",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "포토존 운영",
       "all_tag": "",
-      "info_url": "",
+      "info_url": "https://x.com/MELIGO_Official/status/1833472238429081772",
       "twt_id": "MELIGO_Official",
       "coordinates": {
         "x": "179",
@@ -1094,7 +1094,7 @@
     {
       "booth_number": "C22",
       "booth_name": "이벤트부스",
-      "operator_name": "이벤트부스",
+      "operator_name": "",
       "category": "기업",
       "items_sold": "21일 (트루블루, 수련수련 사인회)#22일 (새양, 에짱, 슈마 사인회)",
       "all_tag": "",
@@ -1113,7 +1113,7 @@
       "category": "기업",
       "items_sold": "",
       "all_tag": "",
-      "info_url": "",
+      "info_url": "https://bibimble.com/",
       "twt_id": "",
       "coordinates": {
         "x": "179",
@@ -1171,7 +1171,7 @@
       "booth_name": "알플레이",
       "operator_name": "플랙스뉴럴랩스",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "[감토리](https://x.com/gamtoryy/status/1837086301138338171) (아크릴 키링 2종, 와앙 포토카드)",
       "all_tag": "C29, rplay, 프로젝트세레니티, project serenity, 무라사키 치즈루, 아야세 테라, 와루야기 모쿠, 주로비, astria, 아스트리아, 엘로디아 시냐, 루시 아카데미, lussi academy",
       "info_url": "",
       "twt_id": "RPLAY_m",
@@ -1320,9 +1320,9 @@
       "booth_name": "모션테크놀로지",
       "operator_name": "(주)모션테크놀로지",
       "category": "기업",
-      "items_sold": "",
+      "items_sold": "페이셜 모션 캡쳐 솔루션 'YanusSTUDIO'#풀바디 모션캡쳐 트래킹 시스템 'MoA'#실시간 2D 가상 캐릭터 시연#1:1 맞춤형 솔루션 상담",
       "all_tag": "",
-      "info_url": "",
+      "info_url": "https://www.motioncapture.co.kr/",
       "twt_id": "",
       "coordinates": {
         "x": "586",
